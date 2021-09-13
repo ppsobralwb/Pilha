@@ -1,0 +1,16 @@
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\EstruturaDaPilha.exe
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\EstruturaDaPilha.deps.json
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\EstruturaDaPilha.runtimeconfig.json
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\EstruturaDaPilha.runtimeconfig.dev.json
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\EstruturaDaPilha.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\ref\EstruturaDaPilha.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\EstruturaDaPilha.pdb
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.csproj.AssemblyReference.cache
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.AssemblyInfoInputs.cache
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.AssemblyInfo.cs
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.csproj.CoreCompileInputs.cache
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\ref\EstruturaDaPilha.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.pdb
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\EstruturaDaPilha.genruntimeconfig.cache

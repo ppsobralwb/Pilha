@@ -1,0 +1,16 @@
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\Desktop.exe
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\Desktop.deps.json
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\Desktop.runtimeconfig.json
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\Desktop.runtimeconfig.dev.json
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\Desktop.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\ref\Desktop.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\bin\Debug\net5.0\Desktop.pdb
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.csproj.AssemblyReference.cache
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.AssemblyInfoInputs.cache
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.AssemblyInfo.cs
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\ref\Desktop.dll
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.pdb
+C:\Users\Rita\Desktop\Digital_Innovation_One\obj\Debug\net5.0\Desktop.genruntimeconfig.cache
